@@ -31,5 +31,7 @@ Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato)
 
  ### svolgimenti mail
 - Creare generatore di numeri da 1 a 6 random per il computer e per l utente
-  - se l utente ha il numero più basso del pc perde
-  - se l utente ha il numero piu alto del pc vince
+  - se l utente ha il numero piu alto del pc vince:
+    - mettiamo l utente a scegliere un numero
+ - se l utente ha il numero più basso del pc perde
+  
