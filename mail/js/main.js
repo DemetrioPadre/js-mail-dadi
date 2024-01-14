@@ -8,6 +8,7 @@ inviaElement.addEventListener('click', function () {
     for (let i = 0; i <= list.length; i++) {
         if (mail == list[i]) {
             controlloElement.innerText = ('sei dentro');
+            controlloElement.innerHTML = (` <a href="">vuoi giocare</a>`);
 
             break;
 
